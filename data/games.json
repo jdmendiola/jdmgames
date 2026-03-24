@@ -1,0 +1,160 @@
+[
+  {
+    "id": "zelda-tears-kingdom",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
+    "genre": "Action Adventure",
+    "releaseYear": 2023,
+    "platform": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": "hades",
+    "title": "Hades",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900_2x.jpg",
+    "genre": "Roguelike",
+    "releaseYear": 2020,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900_2x.jpg",
+    "genre": "RPG",
+    "releaseYear": 2023,
+    "platform": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900_2x.jpg",
+    "genre": "Platformer",
+    "releaseYear": 2018,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900_2x.jpg",
+    "genre": "Simulation",
+    "releaseYear": 2016,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Alan_Wake_2_box_art.jpg",
+    "genre": "Survival Horror",
+    "releaseYear": 2023,
+    "platform": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg",
+    "genre": "Metroidvania",
+    "releaseYear": 2017,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": "resident-evil-4-remake",
+    "title": "Resident Evil 4",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900_2x.jpg",
+    "genre": "Action Horror",
+    "releaseYear": 2023,
+    "platform": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "persona-5-royal",
+    "title": "Persona 5 Royal",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/library_600x900_2x.jpg",
+    "genre": "JRPG",
+    "releaseYear": 2020,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+    "genre": "Platformer",
+    "releaseYear": 2017,
+    "platform": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": "disco-elysium",
+    "title": "Disco Elysium: The Final Cut",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900_2x.jpg",
+    "genre": "Narrative RPG",
+    "releaseYear": 2021,
+    "platform": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/library_600x900_2x.jpg",
+    "genre": "Racing",
+    "releaseYear": 2021,
+    "platform": [
+      "PC",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": "arc-raiders",
+    "title": "ARC Raiders",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1808500/library_600x900_2x.jpg",
+    "genre": "Extraction Shooter",
+    "releaseYear": 2026,
+    "platform": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  }
+]

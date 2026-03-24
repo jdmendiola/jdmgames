@@ -1,0 +1,74 @@
+{
+  "statuses": {
+    "notStarted": "Pas commence",
+    "inProgress": "En cours",
+    "completed": "Termine"
+  },
+  "shell": {
+    "title": "Suivi de Collection de Jeux",
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "collection": "Collection",
+    "localeLabel": "Langue",
+    "locales": {
+      "en": "Anglais",
+      "fr": "Francais"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Bienvenue",
+      "description": "Utilisez la navigation ci-dessus pour parcourir le catalogue et gerer votre collection."
+    },
+    "catalog": {
+      "title": "Catalogue",
+      "description": "Cette page affiche tous les jeux disponibles et vous permet de les ajouter a votre collection.",
+      "filtersTitle": "Outils de navigation",
+      "searchLabel": "Recherche",
+      "searchPlaceholder": "Rechercher par titre",
+      "genreLabel": "Genre",
+      "platformLabel": "Plateforme",
+      "collectionLabel": "Collection",
+      "statusFilterLabel": "Statut",
+      "sortLabel": "Tri",
+      "allGenres": "Tous les genres",
+      "allPlatforms": "Toutes les plateformes",
+      "allCollectionStates": "Tous les etats",
+      "collectionIn": "Dans la collection",
+      "collectionOut": "Hors collection",
+      "allStatuses": "Tous les statuts",
+      "sortTitleAsc": "Titre (A-Z)",
+      "sortTitleDesc": "Titre (Z-A)",
+      "sortYearDesc": "Annee de sortie (plus recent)",
+      "sortYearAsc": "Annee de sortie (plus ancien)",
+      "clearFilters": "Reinitialiser les filtres",
+      "loading": "Chargement du catalogue...",
+      "retry": "Reessayer",
+      "errorLoad": "Impossible de charger le catalogue pour le moment.",
+      "errorAdd": "Impossible d'ajouter ce jeu a votre collection.",
+      "gameCount": "{count, plural, =0 {Aucun jeu disponible} one {# jeu disponible} other {# jeux disponibles}}",
+      "resultsCount": "{visible} affiches sur {total}",
+      "addButton": "Ajouter a la collection",
+      "adding": "Ajout...",
+      "added": "Ajoute",
+      "statusLabel": "Statut",
+      "ratingLabel": "Note"
+    },
+    "collection": {
+      "title": "Collection",
+      "description": "Cette page affiche vos jeux ajoutes avec le statut, la note et les actions de suppression.",
+      "loading": "Chargement de la collection...",
+      "retry": "Reessayer",
+      "empty": "Votre collection est vide. Ajoutez des jeux depuis le Catalogue.",
+      "errorLoad": "Impossible de charger votre collection pour le moment.",
+      "errorUpdate": "Impossible de mettre a jour ce jeu pour le moment.",
+      "gameCount": "{count, plural, =0 {Aucun jeu dans la collection} one {# jeu dans la collection} other {# jeux dans la collection}}",
+      "statusLabel": "Statut",
+      "ratingLabel": "Note",
+      "ratingPlaceholder": "Choisir une note",
+      "removeButton": "Supprimer",
+      "saving": "Enregistrement...",
+      "confirmRemoveInProgress": "Ce jeu est En cours. Le supprimer quand meme ?"
+    }
+  }
+}

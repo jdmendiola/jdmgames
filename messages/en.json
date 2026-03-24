@@ -1,0 +1,74 @@
+{
+  "statuses": {
+    "notStarted": "Not Started",
+    "inProgress": "In Progress",
+    "completed": "Completed"
+  },
+  "shell": {
+    "title": "Game Collection Tracker",
+    "home": "Home",
+    "catalog": "Catalog",
+    "collection": "Collection",
+    "localeLabel": "Language",
+    "locales": {
+      "en": "English",
+      "fr": "French"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Welcome",
+      "description": "Use the navigation above to browse the catalog and manage your collection."
+    },
+    "catalog": {
+      "title": "Catalog",
+      "description": "This page lists all available games and lets you add them to your collection.",
+      "filtersTitle": "Browse tools",
+      "searchLabel": "Search",
+      "searchPlaceholder": "Search by title",
+      "genreLabel": "Genre",
+      "platformLabel": "Platform",
+      "collectionLabel": "Collection",
+      "statusFilterLabel": "Status",
+      "sortLabel": "Sort",
+      "allGenres": "All genres",
+      "allPlatforms": "All platforms",
+      "allCollectionStates": "All collection states",
+      "collectionIn": "In collection",
+      "collectionOut": "Not in collection",
+      "allStatuses": "All statuses",
+      "sortTitleAsc": "Title (A-Z)",
+      "sortTitleDesc": "Title (Z-A)",
+      "sortYearDesc": "Release year (newest)",
+      "sortYearAsc": "Release year (oldest)",
+      "clearFilters": "Reset filters",
+      "loading": "Loading catalog...",
+      "retry": "Retry",
+      "errorLoad": "Could not load the catalog right now.",
+      "errorAdd": "Could not add this game to your collection.",
+      "gameCount": "{count, plural, =0 {No games available} one {# game available} other {# games available}}",
+      "resultsCount": "Showing {visible} of {total}",
+      "addButton": "Add to Collection",
+      "adding": "Adding...",
+      "added": "Added",
+      "statusLabel": "Status",
+      "ratingLabel": "Rating"
+    },
+    "collection": {
+      "title": "Collection",
+      "description": "This page shows games you collected, with status, rating, and remove actions.",
+      "loading": "Loading collection...",
+      "retry": "Retry",
+      "empty": "Your collection is empty. Add games from Catalog first.",
+      "errorLoad": "Could not load your collection right now.",
+      "errorUpdate": "Could not update this game right now.",
+      "gameCount": "{count, plural, =0 {No games in collection} one {# game in collection} other {# games in collection}}",
+      "statusLabel": "Status",
+      "ratingLabel": "Rating",
+      "ratingPlaceholder": "Select rating",
+      "removeButton": "Remove",
+      "saving": "Saving...",
+      "confirmRemoveInProgress": "This game is In Progress. Remove it anyway?"
+    }
+  }
+}

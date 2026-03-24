@@ -1,0 +1,24 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 0.35rem 0.65rem;
+}
+
+.notStarted {
+  background: #eceff3;
+  color: #27313f;
+}
+
+.inProgress {
+  background: #f8ead2;
+  color: #72431a;
+}
+
+.completed {
+  background: #dff3e6;
+  color: #1e5131;
+}

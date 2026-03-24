@@ -1,0 +1,201 @@
+.header {
+  margin-bottom: 18px;
+}
+
+.title {
+  margin: 0;
+  font-size: 24px;
+}
+
+.subtitle {
+  margin: 8px 0 0;
+  color: #52525b;
+}
+
+.count {
+  margin: 8px 0 0;
+  color: #5b21b6;
+  font-size: 14px;
+  text-align: right;
+  font-weight: 600;
+}
+
+.inlineError {
+  margin: 10px 0 0;
+  color: #991b1b;
+  font-weight: 600;
+}
+
+.controls {
+  border: 1px solid #e4e4e7;
+  border-radius: 14px;
+  padding: 12px;
+  background: linear-gradient(180deg, #fcfcfd 0%, #f8fafc 100%);
+  margin: 0 0 14px;
+}
+
+.controlsTitle {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: #374151;
+}
+
+.controlsGrid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.controlField {
+  display: grid;
+  gap: 5px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.controlInput {
+  height: 36px;
+  border: 1px solid #d4d4d8;
+  border-radius: 9px;
+  background: #ffffff;
+  color: #111827;
+  padding: 0 12px;
+}
+
+select.controlInput {
+  padding-right: 34px;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%234b5563' d='M6 8 .8 1.7 2.1.6 6 5.2 9.9.6 11.2 1.7z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 12px 8px;
+}
+
+.clearFilters {
+  margin-top: 10px;
+  border: 1px solid #d4d4d8;
+  border-radius: 9px;
+  height: 34px;
+  padding: 0 12px;
+  background: #ffffff;
+  color: #374151;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.clearFilters:hover {
+  background: #f4f4f5;
+}
+
+.loading {
+  margin: 0;
+  color: #52525b;
+}
+
+.errorBox {
+  border: 1px solid #fecaca;
+  background: #fef2f2;
+  color: #991b1b;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.retryButton {
+  margin-top: 10px;
+  border: 1px solid #7c3aed;
+  border-radius: 10px;
+  padding: 8px 12px;
+  background: #ffffff;
+  color: #5b21b6;
+  cursor: pointer;
+}
+
+.retryButton:hover {
+  background: #f5f3ff;
+}
+
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.cover {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  background: #f4f4f5;
+}
+
+.content {
+  padding: 12px;
+  display: grid;
+  gap: 8px;
+}
+
+.gameTitle {
+  margin: 0;
+  font-size: 17px;
+}
+
+.meta {
+  margin: 0;
+  color: #4b5563;
+  font-size: 14px;
+}
+
+.platforms {
+  margin: 0;
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.addedState {
+  display: grid;
+  gap: 4px;
+  color: #374151;
+  font-size: 13px;
+}
+
+.addedBadge {
+  width: fit-content;
+  border-radius: 999px;
+  padding: 4px 8px;
+  background: #ede9fe;
+  color: #5b21b6;
+  font-weight: 600;
+}
+
+.addButton {
+  margin-top: 2px;
+  border: 1px solid #7c3aed;
+  border-radius: 10px;
+  padding: 9px 12px;
+  background: #ffffff;
+  color: #5b21b6;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.addButton:hover:not(:disabled) {
+  background: #f5f3ff;
+}
+
+.addButton:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
