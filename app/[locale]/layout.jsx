@@ -26,7 +26,6 @@ export default async function LocaleLayout({children, params}) {
       <div className={styles.shell}>
         <header className={styles.header}>
           <div>
-            <p className={styles.kicker}>Hatch</p>
             <h1 className={styles.title}>{t('title')}</h1>
           </div>
           <LocaleSwitcher />
